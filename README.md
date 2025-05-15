@@ -18,10 +18,10 @@ Think of it as sketching your idea before turning it into a working website.
 
 Wireframes are incredibly useful for many reasons:
 
-✅ **Quickly visualize** your idea  
-✅ Plan the **user experience (UX)** early  
-✅ Save time for both **designers and developers**  
-✅ Make changes easily before writing real code  
+- **Quickly visualize** your idea  
+- Plan the **user experience (UX)** early  
+- Save time for both **designers and developers**  
+- Make changes easily before writing real code  
 
 Wireframing is a smart first step in the web development process. It helps you and your team stay on the same page and build with clarity.
 
